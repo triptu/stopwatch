@@ -6,5 +6,5 @@ The program works with Python 3 as well as Python 2. It should work on any OS on
 
 ![Running](/running.PNG?raw=true "Running")
 
-###License
-MIT License
+###Important
+It is not accurate, neither is it meant to be. I just made it to use Tkinter and learn making standalone executable using pyinstaller.
